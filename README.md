@@ -2,7 +2,8 @@
 I hope you can find useful stuff here 😉
 
 ## Introduction
-Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm passionate about technology and development. I explore various fields, from programming to data science, and I'm always eager to learn and contribute to meaningful projects. Feel free to explore my repositories and contact me if you have any questions or collaboration ideas!
+Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm a Web Developer who is currently exploring and learning about Machine Learning. I'm passionate about technology and development, and always eager to expand my knowledge in both web development and machine learning. Feel free to explore my repositories and contact me if you have any questions or collaboration ideas!
+
 
 ## Follower Badge
 ![Followers](https://img.shields.io/github/followers/baskorocr?label=Followers&style=social)
