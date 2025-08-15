@@ -70,4 +70,4 @@ Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm a Web Developer who is curr
 ![OCPP](https://img.shields.io/badge/OCPP-00AA8D?style=flat-square&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-0066CC?style=flat-square&logoColor=white)
 ![Serial](https://img.shields.io/badge/Serial_Communication-333333?style=flat-square&logo=serial-port&logoColor=white)
-Key additions:
+
