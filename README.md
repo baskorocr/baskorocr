@@ -60,6 +60,10 @@ Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm a Web Developer who is curr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-FFB400?style=flat-square&logoColor=white)
+![CVAVR](https://img.shields.io/badge/CVAVR-00599C?style=flat-square&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1F8ACB?style=flat-square&logoColor=white)
+![Gemini Studio](https://img.shields.io/badge/Gemini%20Studio-6C63FF?style=flat-square&logoColor=white)
 
 ### Design & Collaboration
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
