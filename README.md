@@ -75,3 +75,14 @@ Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm a Web Developer who is curr
 ![Modbus](https://img.shields.io/badge/Modbus-0066CC?style=flat-square&logoColor=white)
 ![Serial](https://img.shields.io/badge/Serial_Communication-333333?style=flat-square&logo=serial-port&logoColor=white)
 
+#### Selected Publications:
+1. **Infusion Monitoring System**  
+   ESP8266-based IoT Solution for Hospital Patients  
+   - [Garuda Kemdikbud](https://garuda.kemdikbud.go.id/documents/detail/3451510)  
+   *Web-based drip monitoring system using Laravel framework*
+
+2. **AirDisinfeX**  
+   IoT-based COVID-19 Airborne Prevention System  
+   - [ResearchGate](https://www.researchgate.net/publication/371683129_AirDisinfeX_Pengembangan_IoT_pada_Sistem_Pencegahan_Penyebaran_COVID-19_melalui_Udara)  
+   *UV-based air disinfection system with real-time monitoring*
+
