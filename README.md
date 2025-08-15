@@ -1,3 +1,4 @@
+
 # Hi there 👋
 I hope you can find useful stuff here 😉
 
@@ -55,7 +56,30 @@ Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm a Web Developer who is curr
 ### 🎥 Other Achievements
 - **2018** - Cyber Technology Short Film Competition  
 - **2018** - IT Extraordinary Speaker  
-- **2021** - Product Development  
+- **2021** - Product Development
+
+## 📜 Certifications & Achievements
+
+### 🏆 Competition Awards
+- **2025** - 2nd Winner of Improvement (KIDP XVIII) Dharma Polimetal Tbk
+- **2023** - 1st Winner of AI and IoT Category in AMICTA ([Certificate](https://drive.google.com/file/d/1nqziOn_qTCE09d_TvtaD4Mkgo9Z2u4Ka/view)) - Health System Research
+- **2023** - 1st Winner Software Development - GKM AMIKOM ([Certificate](https://drive.google.com/file/d/1atQD4e3UDmEzUd1T3TGD_xd6EN3SA_iu/view)) - Infusion Monitoring System
+- **2022** - 2nd College Student Innovation of Yogyakarta ([Certificate](https://drive.google.com/file/d/1CJtU0akqgCrHD2lbLNHElR80hdRMHihu/view)) - LOKKY (Smart Locker)
+
+### 🏭 Industrial Certifications
+- **2025** - Coordinating Industrial Transformation 4.0 BNSP ([Certificate](https://drive.google.com/file/d/1xf5zyBjRYnE92RpTLL8TJsDITGNGgdXF/view))
+- **2025** - Industry Transformation Manager 4.0 by KEMENPERIN ([Certificate](https://drive.google.com/file/d/1N1CSXNJBpHB-dhQYHbPO596sV_81r1ZJ/view))
+- **2021** - Cisco CCNA 1 Network Associate ([Certificate](https://drive.google.com/file/d/1GdrUa3l9Ft9J1qHWP3_UTtsKIxFvdwRu/view))
+- **2019** - Cisco IT Essentials ([Certificate](https://drive.google.com/file/d/1QMv9GC0JB-AytaHAY3fYSWJZebazQukC/view))
+
+### 🔧 Technical Training
+- **2022** - Microcontroller Practical Assistant ([Certificate](https://drive.google.com/file/d/1e9bYGhNqr9fc6-hRjL197Mdr4-MHMZht/view))
+- **2021** - Data Communication Practical Assistant ([Certificate](https://drive.google.com/file/d/1GbhyhxT93gRs8aYdwFWd9bT6kDkdZgsm/view))
+- **2019** - IoT Online Workshop by SEAMEO SEAMOLEC ([Certificate](https://drive.google.com/file/d/1cO6HxNt6U3gXi6FsYaq-YFKIRZupML_K/view))
+
+### 🎓 Other Certifications
+- **2023** - TOEFL Certificate ([LinkedIn](https://www.linkedin.com/in/mahesa-putra-baskoro-cahyo-ramadhan-0ab7a6207/details/certifications/1707461547885/single-media-viewer))
+- **2020** - PHP Course (Sololearn: 1059-18744230)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baskorocr&show_icons=true&theme=dark)
