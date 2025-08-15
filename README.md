@@ -24,6 +24,39 @@ Hi, I'm **Mahesa Putra Baskoro Cahyo Ramadhan**! I'm a Web Developer who is curr
 - [Website](https://www.syncbas.xyz/)
 - [Instagram](https://www.instagram.com/syncbas_)
 
+## 🏆 Experience and Awards
+
+### 🏅 Competition Awards
+- **2016** - 2nd Place in MIT Android Developer Competition  
+- **2018** - 3rd Place in Project Exhibition Competition  
+- **2020** - Amicta IoT Contest Nominee  
+- **2023** - 1st Winner of AI and IoT Category in AMICTA  
+- **2023** - 1st Winner of Software Development in GKM Amikom  
+- **2023** - 1st Place Favorite of IoT in GKM Amikom  
+
+### 🤖 Robotics Leadership
+- **2018** - Head of ITFEST Robotic Division Competition  
+- **2018** - Mentor: Focus Line Follower Robot Contest  
+- **2018** - Mentor: Smart Competition and Line Follower  
+
+### 💻 Professional Experience
+- **2018** - Hardware and Software Technician  
+- **2019** - Junior Programmer Arduino  
+- **2019** - Project Manager  
+- **2019-2020** - IoT and Hardware Specialist  
+- **2023** - Kedaireka Internship at Culturobio (IoT Hardware Testing)  
+- **2023-Present** - Dharma Polimetal Tbk Employee  
+
+### 👨‍🏫 Academic Roles
+- **2020** - Data Communication Practical Assistant  
+- **2021-2023** - Microcontroller Practical Assistant  
+- **2021-2023** - Assistant Forum Vice Chair  
+
+### 🎥 Other Achievements
+- **2018** - Cyber Technology Short Film Competition  
+- **2018** - IT Extraordinary Speaker  
+- **2021** - Product Development  
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baskorocr&show_icons=true&theme=dark)
 
